@@ -1,0 +1,31 @@
+.box{
+            background-color: rgb(174, 226, 43);
+            color: aqua;
+            font-size: 2rem;
+            /* height: max-content; */
+        }
+
+#h{
+    background-color: antiquewhite;
+    color: blue;
+
+}
+p{
+    background-color: red ;
+}
+.text{
+    background-color: aqua;
+}
+
+*{
+   padding:2px 3px 3px 2px;
+    margin:2px 3px 3px 2px;
+}
+.d{
+    color: rgba(150, 239, 42, 0.427);
+    font-size: larger;
+    font-weight: 300;
+    font-size: 2rem;
+    /* padding:2px 3px 3px 2px;
+    margin:2px 3px 3px 2px; */
+}
